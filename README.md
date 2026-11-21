@@ -7,4 +7,4 @@
 ## Plataformas o páginas a usar
 - CSES: https://cses.fi/problemset/
 - Codeforces: https://codeforces.com/
-- Atcoder: https://atcoder.jp/
+- AtCoder: https://atcoder.jp/
